@@ -4,7 +4,7 @@
   import { StyleSheet } from 'react-native';
   import { SafeAreaProvider } from "react-native-safe-area-context"
   import { Toaster } from 'sonner-native';
-  import HomeScreen from "./screens/HomeScreen"
+  import HomeScreen from "HomeScreen.tsx"
   
   const Stack = createNativeStackNavigator();
   

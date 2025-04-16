@@ -1,6 +1,6 @@
 import { View, ScrollView, StyleSheet } from 'react-native';
-import UnoCard from './UnoCard';
-import { CardColor, CardType } from './UnoCard';
+import UnoCard from 'UnoCard.tsx';
+import { CardColor, CardType } from 'UnoCard.tsx';
 
 export interface Card {
   id: string;
